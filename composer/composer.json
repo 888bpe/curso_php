@@ -1,0 +1,15 @@
+{
+    "name": "hcodebr/composer",
+    "description": "Composer do Curso de PHP 7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Matheus Pimentel",
+            "email": "matheusbpimentel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
